@@ -1,0 +1,15 @@
+
+.card-img {
+  transition: transform 1s;
+}
+
+.card-img:hover {
+  border-radius: 20%;
+  transform: scale(1.05);
+}
+
+
+.card-title {
+  text-align: center;
+  color: aqua;
+}
